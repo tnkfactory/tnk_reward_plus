@@ -47,7 +47,6 @@ include ':app'
 ```gradle
 repositories {
     mavenCentral()
-    maven { url "https://jitpack.io" }
     maven { url "https://repository.tnkad.net:8443/repository/public/" }
 }
 ```
